@@ -65,4 +65,4 @@ This project provides a data-driven approach to credit risk modeling, helping fi
 
 ### Source
 
-![Home Credit Default Risk Dataset from Kaggle](https://www.kaggle.com/datasets/anggundwilestari/home-credit)
+![Give Me Some Credit Dataset from Kaggle](https://www.kaggle.com/c/GiveMeSomeCredit)
